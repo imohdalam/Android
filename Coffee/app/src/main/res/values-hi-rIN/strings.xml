@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JavaActivity</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="whipped_cream">मार पड़ी क्रीम</string>
+    <string name="order">आदेश</string>
+    <string name="toppings">सामग्री</string>
+    <string name="order_summary">आदेश सारांश</string>
+    <string name="quantity">"परिमाण: "</string>
+    <string name="thank_you">धन्यवाद!!</string>
+    <string name="Whipped_Cream">"व्हीप्ड क्रीम जोड़ें? "</string>
+    <string name="Chocolate">"चॉकलेट जोड़ें? "</string>
+    <string name="name_text">" नाम: <xliff:g example="Amy" id="name">%s</xliff:g>"</string>
+    <string name="total">"कुल: "</string>
+    <string name="name">नाम</string>
+</resources>
